@@ -1,0 +1,223 @@
+[2024-12-01 08:00:01] INFO - Sensor readings: Light=200µmol/m²/s | Temp=23.5°C | Humidity=70% | CO2=441ppm
+[2024-12-01 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 257722)
+[2024-12-01 08:00:03] COMMAND - LED intensity +10% (New: 230µmol/m²/s)
+[2024-12-01 12:00:01] INFO - Sensor readings: Light=63µmol/m²/s | Temp=23.3°C | Humidity=61% | CO2=429ppm
+[2024-12-01 12:00:02] WARNING - Light below threshold (63 < 200µmol/m²/s)
+[2024-12-01 12:00:03] COMMAND - LED intensity +12% (New: 82µmol/m²/s)
+[2024-12-01 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-02 08:00:01] INFO - Sensor readings: Light=278µmol/m²/s | Temp=22.9°C | Humidity=65% | CO2=456ppm
+[2024-12-02 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 513867)
+[2024-12-02 08:00:03] COMMAND - LED intensity +7% (New: 158µmol/m²/s)
+[2024-12-02 12:00:01] INFO - Sensor readings: Light=119µmol/m²/s | Temp=21.6°C | Humidity=65% | CO2=445ppm
+[2024-12-02 12:00:02] WARNING - Light below threshold (119 < 200µmol/m²/s)
+[2024-12-02 12:00:03] COMMAND - LED intensity +11% (New: 132µmol/m²/s)
+[2024-12-02 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-03 08:00:01] INFO - Sensor readings: Light=161µmol/m²/s | Temp=22.3°C | Humidity=61% | CO2=427ppm
+[2024-12-03 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 183927)
+[2024-12-03 08:00:03] COMMAND - LED intensity +2% (New: 334µmol/m²/s)
+[2024-12-03 12:00:01] INFO - Sensor readings: Light=154µmol/m²/s | Temp=25.2°C | Humidity=69% | CO2=456ppm
+[2024-12-03 12:00:02] WARNING - Light below threshold (154 < 200µmol/m²/s)
+[2024-12-03 12:00:03] COMMAND - LED intensity +20% (New: 174µmol/m²/s)
+[2024-12-03 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-04 08:00:01] INFO - Sensor readings: Light=56µmol/m²/s | Temp=22.4°C | Humidity=70% | CO2=442ppm
+[2024-12-04 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 269174)
+[2024-12-04 08:00:03] COMMAND - LED intensity +4% (New: 165µmol/m²/s)
+[2024-12-04 12:00:01] INFO - Sensor readings: Light=179µmol/m²/s | Temp=22.4°C | Humidity=68% | CO2=421ppm
+[2024-12-04 12:00:02] WARNING - Light below threshold (179 < 200µmol/m²/s)
+[2024-12-04 12:00:03] COMMAND - LED intensity +18% (New: 191µmol/m²/s)
+[2024-12-04 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-05 08:00:01] INFO - Sensor readings: Light=130µmol/m²/s | Temp=23.4°C | Humidity=66% | CO2=460ppm
+[2024-12-05 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 717343)
+[2024-12-05 08:00:03] COMMAND - LED intensity +4% (New: 265µmol/m²/s)
+[2024-12-05 12:00:01] INFO - Sensor readings: Light=166µmol/m²/s | Temp=24.5°C | Humidity=66% | CO2=433ppm
+[2024-12-05 12:00:02] WARNING - Light below threshold (166 < 200µmol/m²/s)
+[2024-12-05 12:00:03] COMMAND - LED intensity +14% (New: 182µmol/m²/s)
+[2024-12-05 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-06 08:00:01] INFO - Sensor readings: Light=181µmol/m²/s | Temp=24.1°C | Humidity=62% | CO2=431ppm
+[2024-12-06 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 388522)
+[2024-12-06 08:00:03] COMMAND - LED intensity +5% (New: 290µmol/m²/s)
+[2024-12-06 12:00:01] INFO - Sensor readings: Light=83µmol/m²/s | Temp=21.0°C | Humidity=64% | CO2=441ppm
+[2024-12-06 12:00:02] WARNING - Light below threshold (83 < 200µmol/m²/s)
+[2024-12-06 12:00:03] COMMAND - LED intensity +15% (New: 101µmol/m²/s)
+[2024-12-06 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-07 08:00:01] INFO - Sensor readings: Light=185µmol/m²/s | Temp=22.8°C | Humidity=66% | CO2=439ppm
+[2024-12-07 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 720735)
+[2024-12-07 08:00:03] COMMAND - LED intensity +6% (New: 265µmol/m²/s)
+[2024-12-07 12:00:01] INFO - Sensor readings: Light=145µmol/m²/s | Temp=21.3°C | Humidity=67% | CO2=422ppm
+[2024-12-07 12:00:02] WARNING - Light below threshold (145 < 200µmol/m²/s)
+[2024-12-07 12:00:03] COMMAND - LED intensity +20% (New: 165µmol/m²/s)
+[2024-12-07 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-08 08:00:01] INFO - Sensor readings: Light=239µmol/m²/s | Temp=24.9°C | Humidity=68% | CO2=443ppm
+[2024-12-08 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 187367)
+[2024-12-08 08:00:03] COMMAND - LED intensity +9% (New: 272µmol/m²/s)
+[2024-12-08 12:00:01] INFO - Sensor readings: Light=96µmol/m²/s | Temp=23.0°C | Humidity=60% | CO2=450ppm
+[2024-12-08 12:00:02] WARNING - Light below threshold (96 < 200µmol/m²/s)
+[2024-12-08 12:00:03] COMMAND - LED intensity +16% (New: 111µmol/m²/s)
+[2024-12-08 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-09 08:00:01] INFO - Sensor readings: Light=295µmol/m²/s | Temp=24.9°C | Humidity=63% | CO2=433ppm
+[2024-12-09 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 988348)
+[2024-12-09 08:00:03] COMMAND - LED intensity +6% (New: 176µmol/m²/s)
+[2024-12-09 12:00:01] INFO - Sensor readings: Light=157µmol/m²/s | Temp=24.2°C | Humidity=61% | CO2=421ppm
+[2024-12-09 12:00:02] WARNING - Light below threshold (157 < 200µmol/m²/s)
+[2024-12-09 12:00:03] COMMAND - LED intensity +14% (New: 177µmol/m²/s)
+[2024-12-09 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-10 08:00:01] INFO - Sensor readings: Light=55µmol/m²/s | Temp=24.8°C | Humidity=60% | CO2=440ppm
+[2024-12-10 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 292843)
+[2024-12-10 08:00:03] COMMAND - LED intensity +3% (New: 144µmol/m²/s)
+[2024-12-10 12:00:01] INFO - Sensor readings: Light=124µmol/m²/s | Temp=21.8°C | Humidity=60% | CO2=432ppm
+[2024-12-10 12:00:02] WARNING - Light below threshold (124 < 200µmol/m²/s)
+[2024-12-10 12:00:03] COMMAND - LED intensity +16% (New: 136µmol/m²/s)
+[2024-12-10 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-11 08:00:01] INFO - Sensor readings: Light=198µmol/m²/s | Temp=23.6°C | Humidity=65% | CO2=454ppm
+[2024-12-11 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 730668)
+[2024-12-11 08:00:03] COMMAND - LED intensity +4% (New: 197µmol/m²/s)
+[2024-12-11 12:00:01] INFO - Sensor readings: Light=103µmol/m²/s | Temp=23.3°C | Humidity=63% | CO2=460ppm
+[2024-12-11 12:00:02] WARNING - Light below threshold (103 < 200µmol/m²/s)
+[2024-12-11 12:00:03] COMMAND - LED intensity +13% (New: 123µmol/m²/s)
+[2024-12-11 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-12 08:00:01] INFO - Sensor readings: Light=308µmol/m²/s | Temp=23.8°C | Humidity=62% | CO2=433ppm
+[2024-12-12 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 809167)
+[2024-12-12 08:00:03] COMMAND - LED intensity +1% (New: 140µmol/m²/s)
+[2024-12-12 12:00:01] INFO - Sensor readings: Light=126µmol/m²/s | Temp=25.4°C | Humidity=69% | CO2=449ppm
+[2024-12-12 12:00:02] WARNING - Light below threshold (126 < 200µmol/m²/s)
+[2024-12-12 12:00:03] COMMAND - LED intensity +19% (New: 137µmol/m²/s)
+[2024-12-12 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-13 08:00:01] INFO - Sensor readings: Light=124µmol/m²/s | Temp=25.3°C | Humidity=66% | CO2=437ppm
+[2024-12-13 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 412272)
+[2024-12-13 08:00:03] COMMAND - LED intensity +1% (New: 332µmol/m²/s)
+[2024-12-13 12:00:01] INFO - Sensor readings: Light=180µmol/m²/s | Temp=21.2°C | Humidity=69% | CO2=433ppm
+[2024-12-13 12:00:02] WARNING - Light below threshold (180 < 200µmol/m²/s)
+[2024-12-13 12:00:03] COMMAND - LED intensity +20% (New: 191µmol/m²/s)
+[2024-12-13 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-14 08:00:01] INFO - Sensor readings: Light=137µmol/m²/s | Temp=24.9°C | Humidity=68% | CO2=421ppm
+[2024-12-14 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 887877)
+[2024-12-14 08:00:03] COMMAND - LED intensity +4% (New: 309µmol/m²/s)
+[2024-12-14 12:00:01] INFO - Sensor readings: Light=88µmol/m²/s | Temp=23.1°C | Humidity=66% | CO2=432ppm
+[2024-12-14 12:00:02] WARNING - Light below threshold (88 < 200µmol/m²/s)
+[2024-12-14 12:00:03] COMMAND - LED intensity +15% (New: 104µmol/m²/s)
+[2024-12-14 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-15 08:00:01] INFO - Sensor readings: Light=146µmol/m²/s | Temp=22.7°C | Humidity=63% | CO2=441ppm
+[2024-12-15 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 484986)
+[2024-12-15 08:00:03] COMMAND - LED intensity +1% (New: 339µmol/m²/s)
+[2024-12-15 12:00:01] INFO - Sensor readings: Light=74µmol/m²/s | Temp=22.5°C | Humidity=66% | CO2=459ppm
+[2024-12-15 12:00:02] WARNING - Light below threshold (74 < 200µmol/m²/s)
+[2024-12-15 12:00:03] COMMAND - LED intensity +20% (New: 93µmol/m²/s)
+[2024-12-15 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-16 08:00:01] INFO - Sensor readings: Light=202µmol/m²/s | Temp=23.1°C | Humidity=62% | CO2=425ppm
+[2024-12-16 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 130841)
+[2024-12-16 08:00:03] COMMAND - LED intensity +1% (New: 104µmol/m²/s)
+[2024-12-16 12:00:01] INFO - Sensor readings: Light=174µmol/m²/s | Temp=22.5°C | Humidity=65% | CO2=423ppm
+[2024-12-16 12:00:02] WARNING - Light below threshold (174 < 200µmol/m²/s)
+[2024-12-16 12:00:03] COMMAND - LED intensity +11% (New: 186µmol/m²/s)
+[2024-12-16 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-17 08:00:01] INFO - Sensor readings: Light=259µmol/m²/s | Temp=24.1°C | Humidity=63% | CO2=421ppm
+[2024-12-17 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 680378)
+[2024-12-17 08:00:03] COMMAND - LED intensity +9% (New: 290µmol/m²/s)
+[2024-12-17 12:00:01] INFO - Sensor readings: Light=131µmol/m²/s | Temp=22.8°C | Humidity=70% | CO2=459ppm
+[2024-12-17 12:00:02] WARNING - Light below threshold (131 < 200µmol/m²/s)
+[2024-12-17 12:00:03] COMMAND - LED intensity +14% (New: 146µmol/m²/s)
+[2024-12-17 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-18 08:00:01] INFO - Sensor readings: Light=257µmol/m²/s | Temp=23.0°C | Humidity=69% | CO2=422ppm
+[2024-12-18 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 569265)
+[2024-12-18 08:00:03] COMMAND - LED intensity +9% (New: 144µmol/m²/s)
+[2024-12-18 12:00:01] INFO - Sensor readings: Light=160µmol/m²/s | Temp=22.4°C | Humidity=63% | CO2=423ppm
+[2024-12-18 12:00:02] WARNING - Light below threshold (160 < 200µmol/m²/s)
+[2024-12-18 12:00:03] COMMAND - LED intensity +19% (New: 177µmol/m²/s)
+[2024-12-18 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-19 08:00:01] INFO - Sensor readings: Light=90µmol/m²/s | Temp=24.3°C | Humidity=70% | CO2=432ppm
+[2024-12-19 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 906081)
+[2024-12-19 08:00:03] COMMAND - LED intensity +5% (New: 293µmol/m²/s)
+[2024-12-19 12:00:01] INFO - Sensor readings: Light=64µmol/m²/s | Temp=24.2°C | Humidity=60% | CO2=450ppm
+[2024-12-19 12:00:02] WARNING - Light below threshold (64 < 200µmol/m²/s)
+[2024-12-19 12:00:03] COMMAND - LED intensity +14% (New: 79µmol/m²/s)
+[2024-12-19 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-20 08:00:01] INFO - Sensor readings: Light=144µmol/m²/s | Temp=23.2°C | Humidity=70% | CO2=434ppm
+[2024-12-20 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 456600)
+[2024-12-20 08:00:03] COMMAND - LED intensity +8% (New: 102µmol/m²/s)
+[2024-12-20 12:00:01] INFO - Sensor readings: Light=175µmol/m²/s | Temp=21.4°C | Humidity=64% | CO2=453ppm
+[2024-12-20 12:00:02] WARNING - Light below threshold (175 < 200µmol/m²/s)
+[2024-12-20 12:00:03] COMMAND - LED intensity +12% (New: 185µmol/m²/s)
+[2024-12-20 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-21 08:00:01] INFO - Sensor readings: Light=241µmol/m²/s | Temp=23.4°C | Humidity=61% | CO2=436ppm
+[2024-12-21 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 332686)
+[2024-12-21 08:00:03] COMMAND - LED intensity +2% (New: 142µmol/m²/s)
+[2024-12-21 12:00:01] INFO - Sensor readings: Light=69µmol/m²/s | Temp=22.5°C | Humidity=63% | CO2=459ppm
+[2024-12-21 12:00:02] WARNING - Light below threshold (69 < 200µmol/m²/s)
+[2024-12-21 12:00:03] COMMAND - LED intensity +16% (New: 82µmol/m²/s)
+[2024-12-21 09:58:01] ERROR - CO2 sensor timeout (Retry 1/3)
+[2024-12-21 09:58:04] RECOVER - CO2 reading restored: 422ppm
+[2024-12-21 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-22 08:00:01] INFO - Sensor readings: Light=313µmol/m²/s | Temp=24.1°C | Humidity=60% | CO2=441ppm
+[2024-12-22 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 477809)
+[2024-12-22 08:00:03] COMMAND - LED intensity +8% (New: 261µmol/m²/s)
+[2024-12-22 12:00:01] INFO - Sensor readings: Light=72µmol/m²/s | Temp=22.7°C | Humidity=69% | CO2=453ppm
+[2024-12-22 12:00:02] WARNING - Light below threshold (72 < 200µmol/m²/s)
+[2024-12-22 12:00:03] COMMAND - LED intensity +15% (New: 85µmol/m²/s)
+[2024-12-22 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-23 08:00:01] INFO - Sensor readings: Light=135µmol/m²/s | Temp=24.0°C | Humidity=68% | CO2=452ppm
+[2024-12-23 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 968766)
+[2024-12-23 08:00:03] COMMAND - LED intensity +10% (New: 258µmol/m²/s)
+[2024-12-23 12:00:01] INFO - Sensor readings: Light=129µmol/m²/s | Temp=24.6°C | Humidity=62% | CO2=436ppm
+[2024-12-23 12:00:02] WARNING - Light below threshold (129 < 200µmol/m²/s)
+[2024-12-23 12:00:03] COMMAND - LED intensity +18% (New: 148µmol/m²/s)
+[2024-12-23 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-24 08:00:01] INFO - Sensor readings: Light=72µmol/m²/s | Temp=23.6°C | Humidity=66% | CO2=448ppm
+[2024-12-24 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 479284)
+[2024-12-24 08:00:03] COMMAND - LED intensity +1% (New: 315µmol/m²/s)
+[2024-12-24 12:00:01] INFO - Sensor readings: Light=51µmol/m²/s | Temp=24.3°C | Humidity=67% | CO2=440ppm
+[2024-12-24 12:00:02] WARNING - Light below threshold (51 < 200µmol/m²/s)
+[2024-12-24 12:00:03] COMMAND - LED intensity +20% (New: 67µmol/m²/s)
+[2024-12-24 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-25 08:00:01] INFO - Sensor readings: Light=278µmol/m²/s | Temp=23.5°C | Humidity=67% | CO2=433ppm
+[2024-12-25 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 629122)
+[2024-12-25 08:00:03] COMMAND - LED intensity +6% (New: 127µmol/m²/s)
+[2024-12-25 12:00:01] INFO - Sensor readings: Light=116µmol/m²/s | Temp=24.9°C | Humidity=62% | CO2=437ppm
+[2024-12-25 12:00:02] WARNING - Light below threshold (116 < 200µmol/m²/s)
+[2024-12-25 12:00:03] COMMAND - LED intensity +14% (New: 126µmol/m²/s)
+[2024-12-25 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-26 08:00:01] INFO - Sensor readings: Light=112µmol/m²/s | Temp=22.7°C | Humidity=67% | CO2=450ppm
+[2024-12-26 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 175454)
+[2024-12-26 08:00:03] COMMAND - LED intensity +8% (New: 255µmol/m²/s)
+[2024-12-26 12:00:01] INFO - Sensor readings: Light=151µmol/m²/s | Temp=23.1°C | Humidity=69% | CO2=433ppm
+[2024-12-26 12:00:02] WARNING - Light below threshold (151 < 200µmol/m²/s)
+[2024-12-26 12:00:03] COMMAND - LED intensity +20% (New: 162µmol/m²/s)
+[2024-12-26 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-27 08:00:01] INFO - Sensor readings: Light=110µmol/m²/s | Temp=23.8°C | Humidity=64% | CO2=429ppm
+[2024-12-27 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 520133)
+[2024-12-27 08:00:03] COMMAND - LED intensity +7% (New: 342µmol/m²/s)
+[2024-12-27 12:00:01] INFO - Sensor readings: Light=98µmol/m²/s | Temp=21.5°C | Humidity=64% | CO2=460ppm
+[2024-12-27 12:00:02] WARNING - Light below threshold (98 < 200µmol/m²/s)
+[2024-12-27 12:00:03] COMMAND - LED intensity +12% (New: 114µmol/m²/s)
+[2024-12-27 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-28 08:00:01] INFO - Sensor readings: Light=291µmol/m²/s | Temp=23.1°C | Humidity=64% | CO2=428ppm
+[2024-12-28 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 174263)
+[2024-12-28 08:00:03] COMMAND - LED intensity +3% (New: 225µmol/m²/s)
+[2024-12-28 12:00:01] INFO - Sensor readings: Light=60µmol/m²/s | Temp=21.3°C | Humidity=69% | CO2=432ppm
+[2024-12-28 12:00:02] WARNING - Light below threshold (60 < 200µmol/m²/s)
+[2024-12-28 12:00:03] COMMAND - LED intensity +13% (New: 76µmol/m²/s)
+[2024-12-28 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-29 08:00:01] INFO - Sensor readings: Light=164µmol/m²/s | Temp=21.4°C | Humidity=63% | CO2=439ppm
+[2024-12-29 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 583784)
+[2024-12-29 08:00:03] COMMAND - LED intensity +10% (New: 321µmol/m²/s)
+[2024-12-29 12:00:01] INFO - Sensor readings: Light=179µmol/m²/s | Temp=21.5°C | Humidity=64% | CO2=447ppm
+[2024-12-29 12:00:02] WARNING - Light below threshold (179 < 200µmol/m²/s)
+[2024-12-29 12:00:03] COMMAND - LED intensity +12% (New: 196µmol/m²/s)
+[2024-12-29 15:44:01] ERROR - CO2 sensor timeout (Retry 1/3)
+[2024-12-29 15:44:04] RECOVER - CO2 reading restored: 425ppm
+[2024-12-29 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-30 08:00:01] INFO - Sensor readings: Light=198µmol/m²/s | Temp=22.6°C | Humidity=62% | CO2=454ppm
+[2024-12-30 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 257382)
+[2024-12-30 08:00:03] COMMAND - LED intensity +5% (New: 344µmol/m²/s)
+[2024-12-30 12:00:01] INFO - Sensor readings: Light=175µmol/m²/s | Temp=24.4°C | Humidity=63% | CO2=445ppm
+[2024-12-30 12:00:02] WARNING - Light below threshold (175 < 200µmol/m²/s)
+[2024-12-30 12:00:03] COMMAND - LED intensity +12% (New: 193µmol/m²/s)
+[2024-12-30 14:45:01] ERROR - CO2 sensor timeout (Retry 1/3)
+[2024-12-30 14:45:04] RECOVER - CO2 reading restored: 450ppm
+[2024-12-30 16:00:01] INFO - System shutdown: Daily cycle complete
+[2024-12-31 08:00:01] INFO - Sensor readings: Light=164µmol/m²/s | Temp=22.5°C | Humidity=60% | CO2=459ppm
+[2024-12-31 08:00:02] DEBUG - MQTT publish to Azure IoT Hub (Message ID: 231932)
+[2024-12-31 08:00:03] COMMAND - LED intensity +1% (New: 330µmol/m²/s)
+[2024-12-31 12:00:01] INFO - Sensor readings: Light=136µmol/m²/s | Temp=23.0°C | Humidity=67% | CO2=456ppm
+[2024-12-31 12:00:02] WARNING - Light below threshold (136 < 200µmol/m²/s)
+[2024-12-31 12:00:03] COMMAND - LED intensity +17% (New: 154µmol/m²/s)
+[2024-12-31 16:00:01] INFO - System shutdown: Daily cycle complete
